@@ -1,0 +1,18 @@
+1. springMVC框架 主要用来做什么?
+1.0 用来查找 jsp/html 等界面的
+1.1用来接收前端的参数
+1.2用来响应前端的数据，把数据变为json发给前端 或者 携带数据进行跳转
+2.springMvc  框架的 目的：  就是 让 写代码更加方便
+
+3.springMvc 包含哪些学习内容？
+
+3.1单体应用中：要学的有，如何查找jsp ，如何携带数据跳转到前端。前端jsp 的jstl/el表达式的使用，以及 9大作用域
+3.2前后端分离中:要学的有，如何 给后台返回json数据，如何接收 ajax的多种类型的参数。 前端jquery 和ajax
+
+
+spring mvc 的五大组件
+a.DispatcherServlet  前端控制器
+b.HandlerMapping  映射处理器
+c.Controller    处理器
+d.ModelAndView    模型和视图
+e.ViewResolver    视图解析器

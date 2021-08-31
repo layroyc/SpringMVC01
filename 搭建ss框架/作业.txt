@@ -1,0 +1,15 @@
+ // 作业1： 手写  springmvc的 5大组件1编， 拍图 交给组长
+    // 作业2： 总结 百度 看  springmvc的 流程以及原理。 写个 doc 文档上交
+    // 作业3：  重新 搭建 ss框架  2编。  拷贝。。熟练。
+
+
+
+spring mvc 的五大组件
+a.DispatcherServlet  前端控制器
+b.HandlerMapping  映射处理器
+c.Controller    处理器
+d.ModelAndView    模型和视图
+e.ViewResolver    视图解析器
+
+
+
